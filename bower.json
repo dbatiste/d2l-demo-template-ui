@@ -1,6 +1,7 @@
 {
   "name": "d2l-demo-template",
   "description": "Polymer-based component for demo page template",
+  "private": true,
   "main": "d2l-demo-template.html",
   "license": "Apache-2.0",
   "ignore": [
