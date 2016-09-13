@@ -13,7 +13,6 @@
   "dependencies": {
     "d2l-colors": "vui-colors#~2.1.0",
     "d2l-typography": "vui-typography#~4.1.0",
-    "d2l-polymer-behaviors": "~0.0.2",
     "polymer": "^1.5.0"
   },
   "devDependencies": {
